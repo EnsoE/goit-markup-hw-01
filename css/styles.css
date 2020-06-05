@@ -1,0 +1,59 @@
+.body {
+  font-family: Roboto;
+  font-style: normal;
+  color: rgba(0, 0, 0, 80%);
+}
+
+.hero-title {
+  color: black;
+  font-size: 44px;
+}
+
+.section-title {
+  color: #212121;
+  font-size: 36px;
+}
+
+/*
+
+Header styles
+
+*/
+
+.list {
+  list-style: none;
+  text-decoration: none;
+}
+.link {
+  color: #212121;
+  text-decoration: none;
+}
+.link:hover,
+.link:focus {
+  color: #2196f3;
+}
+
+.link-contacts {
+  color: #757575;
+}
+
+.link-contacts:hover,
+.link-contacts:focus {
+  color: #2196f3;
+}
+
+.button-primary {
+  background-color: #2196f3;
+  color: #ffffff;
+  display: inline-block;
+  padding: 10px;
+  border-radius: 4px;
+}
+
+.button-primary:hover,
+.button-primary:focus {
+}
+
+a {
+  text-decoration: none;
+}
